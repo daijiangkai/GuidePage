@@ -435,4 +435,16 @@
          z-index: 99;
          transform: translate(-50%, -50%);
      }
+     .foot{
+         width: 100%;
+
+     }
+     .foot img:nth-child(1){
+         float: left;
+        width: 53.4%;
+     }
+     .foot img:nth-child(2){
+        float: left;
+       width: 46.6%;
+    }
  }
